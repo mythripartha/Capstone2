@@ -1,1 +1,2 @@
 # Capstone2
+I will utilize different datasets that show who seeks therapy by their age, work/career environment, where they live, if there’s any family history and their gender, then I will compare these data to see if there are any major patterns. With this information, I can come to a conclusion of who seeks therapy the most, what conditions/diagnoses occur most, and I can see how we can better improve conversations around mental health and see how to destigmatize asking for help.
